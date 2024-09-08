@@ -1,5 +1,3 @@
-**Here’s a completed GitHub bio for you:**
-
 👋 Hi, I’m @Shahanwaz0011
 👀 I’m interested in web development, machine learning, and Web3 Tech.
 🌱 I’m currently learning Python, JavaScript, and Java DSA and Solidity. 
